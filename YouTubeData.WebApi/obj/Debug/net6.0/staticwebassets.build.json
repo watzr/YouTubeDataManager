@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YCYvOBLXNCIRNZZLqrSgY4EkD0GQGPKDV9zpcC+xHTk=",
+  "Source": "YouTubeData.WebApi",
+  "BasePath": "_content/YouTubeData.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
